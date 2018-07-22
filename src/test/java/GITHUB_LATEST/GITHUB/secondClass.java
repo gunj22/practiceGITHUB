@@ -7,6 +7,8 @@ public class secondClass {
 	@Test
 	public void firstMethod_ClassSecond() {
 		System.out.println("Second Class Method");
+		
+		System.out.println("New Method in Second branch");
 
 	}
 
